@@ -1,6 +1,7 @@
 body {
-  background-color: green;
+  background-color: white;
 }
-p {
+h1 {
   font-size: 32px;
+  color: brown;
 }
